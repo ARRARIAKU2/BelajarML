@@ -9,7 +9,6 @@ def calculatedaysbetweendates(date1, date2):
 
 print(calculatedaysbetweendates("2020-01-01", "2020-07-26"))
 
-# download video from twitter
 
 
 
